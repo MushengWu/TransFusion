@@ -1,4 +1,2 @@
 # LAA
-LAA segmentation
-
-LCX object detection
+The code will be release soon
