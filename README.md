@@ -3,7 +3,6 @@
 
 # Citation
 
-```
 
 ```
 @article{wu2024transfusion,
